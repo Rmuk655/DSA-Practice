@@ -8,7 +8,7 @@ jobs:
       - name: Check that every solution compiles
         run: |
           fail=0
-          for f in *.cpp; do
+          for f in Codeforces/*.cpp; do
             g++ -std=c++17 -fsyntax-only "$f" || { echo "FAILED: $f"; fail=1; }
           done
           exit $fail

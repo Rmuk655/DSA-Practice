@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-[![CI](https://github.com/Rmuk655/Codeforces-Solutions/actions/workflows/ci.yml/badge.svg)](https://github.com/Rmuk655/Codeforces-Solutions/actions/workflows/ci.yml)
+[![CI](https://github.com/Rmuk655/DSA-Practice/actions/workflows/ci.yml/badge.svg)](https://github.com/Rmuk655/DSA-Practice/actions/workflows/ci.yml)
 
 C++ solutions to 34 Codeforces problems across 12 contests. Handle: [muk_r1](https://codeforces.com/profile/muk_r1).
 
