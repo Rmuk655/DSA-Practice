@@ -1,7 +1,5 @@
 # DSA Practice
 
-[![CI](https://github.com/Rmuk655/DSA-Practice/actions/workflows/ci.yml/badge.svg)](https://github.com/Rmuk655/DSA-Practice/actions/workflows/ci.yml)
-
 C++ solutions to competitive-programming and interview problems. This repository combines the former `Codeforces-Solutions` and `LeetCode-Solutions` repositories; the history of both is kept.
 
 | Folder | Contents | Profile |
